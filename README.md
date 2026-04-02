@@ -8,14 +8,14 @@ FichierDescriptiondashboard_emploi_maroc.pbixFichier Power BI principaldataset_e
 ColonneDescriptionOffre_IDIdentifiant unique de l'offrePosteIntitulé du posteSecteurSecteur d'activité (12 secteurs)EntrepriseNom de l'entrepriseVilleVille de l'offreType_ContratCDI / CDD / Freelance / StageNiveau_ExpérienceDébutant → ExpertNiveau_ÉtudesBac+2 → Bac+8Salaire_Min_MADSalaire minimum en MADSalaire_Max_MADSalaire maximum en MADTélétravailPrésentiel / Hybride / Full RemoteCompétencesCompétences requisesLanguesLangues demandéesDate_PublicationDate de publication de l'offreMoisMois de publicationAnnéeAnnée de publication
 
 #### KPIs Clés
-IndicateurValeur Nombre total d'offres700 Salaire maximum55 000 MAD Salaire minimum4 000 MAD % CDI41.71%💻 % Télétravail36.71%
+IndicateurValeur Nombre total d'offres700 Salaire maximum55 000 MAD Salaire minimum4 000 MAD %CDI 41.71% %Télétravail 36.71%
 
 #### Pages du Dashboard
 ### Page 1 — Vue Générale
 Aperçu global du marché : répartition des offres par secteur, type de contrat, mode de travail et salaire moyen par niveau d'expérience.
 Visualisations :
 
-KPI Cards : Nombre Offres / Salaire Max / % CDI / % Télétravail
+KPI Cards : Nombre Offres / Salaire Max / %CDI / %Télétravail
 Bar Chart : Nombre d'offres par secteur
 Donut Chart : Répartition par Type_Contrat (CDI 41.71% — CDD 28.57% — Freelance 16.72% — Stage 13%)
 Donut Chart : Répartition par Télétravail (Présentiel 63.29% — Hybride 19.86% — Full Remote 16.86%)
