@@ -74,7 +74,7 @@ Dataset : 700 offres d'emploi — Maroc 2023–2024 (données simulées basées 
 
 Cloner le repository :
 
-bashgit clone https://github.com/TON-USERNAME/NOM-DU-REPO.git
+bashgit clone https://github.com/Faridoumnay/ emploi_maroc.git
 
 Ouvrir dashboard_emploi_maroc.pbix avec Power BI Desktop
 Re-lier le dataset si nécessaire : Transform Data → Data Source Settings
